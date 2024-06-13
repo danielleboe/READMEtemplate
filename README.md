@@ -3,10 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 - GitHub Repo: [danielleboe](https://github.com/danielleboe) 
-- GitHub Application URL: [danielleboe](https://danielleboe.github.io/READMEtemplate) 
-
-undefined 
-READMEtemplate 
+- GitHub Application URL: [App URL](https://danielleboe.github.io/READMEtemplate) 
 
 ## Description
 Automatically creates a README file 
@@ -32,6 +29,10 @@ WHEN I enter my email address <br>
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions <br>
 WHEN I click on the links in the Table of Contents <br>
 THEN I am taken to the corresponding section of the README <br>
+
+## Screen Shot & Video
+<video src="./Develop/demo.mp4" width="560" height="315" controls></video>
+
 
 ## Table of Contents
 - [Installation](#instructions) 

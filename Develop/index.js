@@ -10,9 +10,6 @@ ${getLicense(answers.license)}
 - GitHub Repo: [${answers.username}](https://github.com/${answers.username}) 
 - GitHub Application URL: [${answers.username}](https://${answers.username}.github.io/${answers.repo}) 
 
-${answers.appURL} 
-${answers.repo} 
-
 ## Description
 ${answers.description} 
 
