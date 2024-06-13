@@ -1,6 +1,15 @@
-# READMEtemplate
-README Template program
+# README Template Maker
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
+- GitHub Repo: [danielleboe](https://github.com/danielleboe) 
+- GitHub Application URL: [danielleboe](https://danielleboe.github.io/READMEtemplate) 
+
+undefined 
+READMEtemplate 
+
+## Description
+Automatically creates a README file 
 
 # User Story
 AS A developer
@@ -23,3 +32,36 @@ WHEN I enter my email address <br>
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions <br>
 WHEN I click on the links in the Table of Contents <br>
 THEN I am taken to the corresponding section of the README <br>
+
+## Table of Contents
+- [Installation](#instructions) 
+- [Usage](#usage) 
+- [License](#license) 
+- [Contributing](#contributors) 
+- [Tests](#tests) 
+- [Questions](#questions) 
+- [Screen Shots](#image) 
+
+## Installation  
+Install Package npm i inquirer@8.2.4  
+
+## Usage  
+Install Inquirer then navigate to folder.  
+
+## License  
+This project is licensed under the MIT license.  
+
+## Contributing  
+Danielle Boenisch
+
+## Tests  
+
+## Questions  
+For any questions, please contact me with the information below:  
+
+GitHub: [danielleboe](https://github.com/danielleboe)  
+
+Email: danielleboenisch@gmail.com
+
+
+

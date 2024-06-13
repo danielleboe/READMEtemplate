@@ -2,9 +2,6 @@
 const inquirer = require('inquirer');  // npm i inquirer@8.2.4
 const fs = require('fs'); //file system
 
-// // Function call to initialize app
-// init();
-
 const generateREADME = (answers) => `
 # ${answers.title} 
 
@@ -20,14 +17,13 @@ ${answers.repo}
 ${answers.description} 
 
 ## Table of Contents
-- [Installation] (#installation) 
-- [Usage]  (#usage) 
-    - GitHub Application URL: [${answers.username}](https://${answers.username}.github.io/${answers.repo}) 
-- [License]  (#license) 
-- [Contributing]  (#contributing) 
-- [Tests]  (#tests) 
-- [Questions]  (#questions) 
-- [Screen Shots]  (#image) 
+- [Installation](#instructions)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Screen Shots](#image)
 
 ## Installation  
 ${answers.instructions}  
@@ -40,7 +36,7 @@ This project is licensed under the ${answers.license} license.
 
 ## Contributing  
 ${answers.contribution}  
-${answers.contributior}  
+${answers.contributors}  
 
 ## Tests  
 ${answers.tests}  
@@ -128,6 +124,11 @@ inquirer.prompt([
     },
     {
         type: 'input',
+        name: 'tests',
+        message: 'Test Instructions',
+    },
+    {
+        type: 'input',
         name: 'image',
         message: 'Screen Shots & Videos',
     },
@@ -180,6 +181,6 @@ inquirer.prompt([
   console.error('Error generating README.md:', error);
 });
 
-// // TODO: Create a function to initialize app
-inherits();
+// // // TODO: Create a function to initialize app
+// init();
 

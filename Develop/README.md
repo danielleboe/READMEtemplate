@@ -1,5 +1,5 @@
 
-# weather aapp 
+# Weather App Test 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
@@ -10,33 +10,32 @@ undefined
 weatherapp 
 
 ## Description
-weather app foorecaaser 
+description 
 
 ## Table of Contents
-- [Installation] (#installation) 
-- [Usage]  (#usage) 
-    - GitHub Application URL: [danielleboe](https://danielleboe.github.io/weatherapp) 
-- [License]  (#license) 
-- [Contributing]  (#contributing) 
-- [Tests]  (#tests) 
-- [Questions]  (#questions) 
-- [Screen Shots]  (#image) 
+- [Installation](#instructions)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Screen Shots](#image)
 
 ## Installation  
-dafdkajf  
+installation instructions  
 
 ## Usage  
-ldakjlfasf  
+usage instructions  
 
 ## License  
 This project is licensed under the MIT license.  
 
 ## Contributing  
-lkafjdljad  
-undefined  
+contribution guidelines  
+danielle boenisch  
 
 ## Tests  
-undefined  
+test instructions  
 
 ## Questions  
 For any questions, please contact me with the information below:  
